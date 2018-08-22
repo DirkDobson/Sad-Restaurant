@@ -1,0 +1,88 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  background-color: purple;
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+  align-content: space-around;
+  padding: 20px;
+    
+}
+.first{
+  background-color: gray;
+  
+}
+.appetizers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: gray;
+}
+#app {
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.descriptions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: white;
+  font-size: 1.4em;
+  
+}
+.breakfast {
+  background-color: gray;
+}
+#title {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.breakimgs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+#chum {
+  height: 20%;
+  width: 20%;
+}
+#Maggots {
+  height: 20%;
+  width: 20%;
+  margin-right: 70px;
+}
+#Chote {
+  margin-right: 50px;
+}
+#title2 {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+.drinks {
+  background-color: gray;
+}
+.format {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font: 1.2em sans-serif;
+  color: white;
+  padding: 10px;
+}
+#superrum {
+  margin-left: 30px;
+  padding-left: 30px;
+}
+#title3 {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
